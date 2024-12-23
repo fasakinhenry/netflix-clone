@@ -48,7 +48,7 @@ body {
   font-family: 'Netflix Sans', Helvetica, Arial, sans-serif;
   --webkit-font-smoothing: antialiased;
   background: var(--black-color);
-  color: var(--gray-color);
+  color: var(--white-color);
 }
 
 ul {
@@ -147,6 +147,7 @@ img {
 
 .tabs {
   background: var(--dark-color);
+  color: var(--gray-color);
   padding-top: 1rem;
   border-bottom: 3px solid var(--border-color);
 }
@@ -178,12 +179,60 @@ img {
   border-bottom: 4px solid var(--primary-color);
 }
 
+.tab-content {
+    padding: 3rem 0;
+    background: var(--black-color);
+    color: var(--white-color);
+}
+
 #tab-1-content .tab-1-content-inner {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 2rem;
   align-items: center;
   justify-content: center;
+}
+
+#tab-2-content .tab-2-content-top {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 1rem;
+    align-items: center;
+    justify-content: center;
+}
+
+#tab-2-content .tab-2-content-bottom {
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 2rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.table {
+    width: 100%;
+    margin-top: 2rem;
+}
+
+.table thead th {
+    text-transform: uppercase;
+    padding: 0.8rem;
+}
+
+.table tbody tr td {
+    color: var(--gray-color);
+    padding: 0.8rem 1.2rem;
+    text-align: center;
+}
+
+.table tbody tr td:first-child {
+    text-align: left;
+}
+
+.table tbody tr:nth-child(odd) {
+    background: #222;
 }
 
 /* Container */
@@ -205,7 +254,11 @@ img {
 .text-lg {
     font-size: 1.8rem;
     margin-bottom: 1rem;
-    color: var(--white-color); 
+}
+
+.text-md {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
 }
 
 .text-center {
@@ -226,7 +279,7 @@ img {
   outline: none;
   margin: 0.5rem;
   border: none;
-  padding: 0.4rem 1.3rem;
+  padding: 0.6rem 1.3rem;
   cursor: pointer;
   text-align: center;
   box-shadow: 0 1px 0 rgba(0, 0, 0, 0.45);
