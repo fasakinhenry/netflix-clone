@@ -20,14 +20,17 @@ body {
 }
 
 ul {
-    list-style: none;
+  list-style: none;
 }
 
-h1, h2, h3, h4 {
-    color: var(--white-color);
+h1,
+h2,
+h3,
+h4 {
+  color: var(--white-color);
 }
 
 a {
-    text-decoration: none;
-    color: var(--white-color);
+  text-decoration: none;
+  color: var(--white-color);
 }
