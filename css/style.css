@@ -400,11 +400,25 @@ img {
   }
 
   .showcase .showcase-content {
-    margin-top: 5rem;
+    margin-top: 6rem;
   }
 
-  .container {
-    width: 100%;
+  .showcase-content h1 {
+    font-size: 3rem;
+    line-height: 1;
+  }
+
+  .showcase-content p {
+    font-size: 1.1rem;
+  }
+
+  .showcase-top a {
+    right: -5%;
+  }
+
+  .tab-content .container {
+    max-width: 100%;
+    margin: 0 0.5rem;
     padding: 0 0.2rem;
   }
 
