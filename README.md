@@ -1,3 +1,3 @@
 # Netflix clone
 
-Clone of the Netflix website - Now old
+Clone of the Netflix website
