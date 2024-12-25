@@ -10,16 +10,14 @@
 /* Add the Netflix sans font  */
 @font-face {
   font-family: 'Netflix Sans';
-  src: url('../fonts/NetflixSans-Regular.woff2') format('woff2'),
-    url('../fonts/NetflixSans-Regular.woff') format('woff');
+  src: url('../fonts/NetflixSans-Regular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Netflix Sans';
-  src: url('../fonts/NetflixSans-Bold.woff2') format('woff2'),
-    url('../fonts/NetflixSans-Bold.woff') format('woff');
+  src: url('../fonts/NetflixSans-Bold.woff2') format('woff2');
   font-weight: bold;
   font-style: normal;
 }
