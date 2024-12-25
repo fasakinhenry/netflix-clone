@@ -184,6 +184,7 @@ img {
 }
 
 /* Hide content initially*/
+
 #tab-1-content,
 #tab-2-content,
 #tab-3-content {
@@ -247,6 +248,7 @@ img {
 }
 
 /* Footer */
+
 .footer {
   max-width: 75%;
   margin: 1rem auto;
