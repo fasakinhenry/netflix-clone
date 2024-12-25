@@ -2,7 +2,7 @@
 
 <div align="center">
   <br />
-    <a href="https://youtu.be/kt0FrkQgw8w" target="_blank">
+    <a href="https://netflixandchill.vercel.app" target="_blank">
       <img src="https://github.com/user-attachments/assets/2afc2dc3-f840-4d98-9378-f34acd7df173" alt="Project Banner">
     </a>
   <br />
@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">A 3D Dev Portfolio</h3>
+  <h3 align="center">Netflix Clone</h3>
 
-   <div align="center">
+   <!-- <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!!
-    </div>
+    </div> -->
 </div>
