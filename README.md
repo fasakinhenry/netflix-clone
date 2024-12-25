@@ -40,12 +40,12 @@ This project is a clone of the Netflix landing page. It is a mobile responsive c
 
 ## ⚡ <a name="features">Features</a>
 
-👉 **Hero**: Captivating Hero section with inset background shadow and nice background
-👉 **Tab Section**: It has interactive tab sections that switch content based on the selected tab
-👉 **Footer**: A footer section with links to various pages and social media icons
-👉 **Responsive Design**: Fully responsive design with seamless adaptability across all devices, enusring optimal experience for every user.
-👉 **Interactive**: Interactive elements like buttons, tabs, and hover effects
-👉 **Engaging Images**: High-quality images which enhances the visual appeal and user experience loading to a more engaging and immersive website.
+- 👉 **Hero**: Captivating Hero section with inset background shadow and nice background
+- 👉 **Tab Section**: It has interactive tab sections that switch content based on the selected tab
+- 👉 **Footer**: A footer section with links to various pages and social media icons
+- 👉 **Responsive Design**: Fully responsive design with seamless adaptability across all devices, enusring optimal experience for every user.
+- 👉 **Interactive**: Interactive elements like buttons, tabs, and hover effects
+- 👉 **Engaging Images**: High-quality images which enhances the visual appeal and user experience loading to a more engaging and immersive website.
 
 ## 🚀 <a name="quick-start">Quick Start</a>
 
