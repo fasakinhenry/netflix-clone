@@ -1,3 +1,4 @@
+![Netlix clone](https://github.com/user-attachments/assets/1ceed4a9-3098-49a3-955e-56b1bc7e9569)
 <div align="center">
   <br />
     <a href="https://netflixandchill.vercel.app" target="_blank">
