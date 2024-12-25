@@ -68,6 +68,10 @@ cd netflix-clone
 - [Link to Deployed Website](https://netflixandchill.vercel.app)
 - [Link to Repository](https://github.com/fasakinhenry/netflix-clone)
 
+## Final Version 😉
+
+![Netflix and chill website](https://github.com/user-attachments/assets/4a0b6f2c-0fb9-4882-a21b-890d1fa9a6f6)
+
 ## 🌐 <a name="more">More</a>
 
 This project was built for educational purposes and to showcase my skills in HTML, CSS, and JavaScript. If you have any feedback or suggestions, feel free to reach out to me.
