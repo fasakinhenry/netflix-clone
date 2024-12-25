@@ -74,4 +74,4 @@ This project was built for educational purposes and to showcase my skills in HTM
 
 Also I am a software Engineer and I can help you bring your ideas to life. You can reach out to me on [X](https://x.com/henqsoft) or [LinkedIn](https://www.linkedin.com/in/fasakin-henry/).
 
-> Made with ❤️ by [Henry Fasakin](https://github.com/fasakinhenry
+> Made with ❤️ by [Henry Fasakin](https://github.com/fasakinhenry)
