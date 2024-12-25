@@ -25,5 +25,53 @@
 3. ⚡ [Features](#features)
 4. 🚀 [Quick Start](#quick-start)
 5. 🔗 [Links](#links)
-6. 📦 [Assets](#assets)
-7. 🌐 [More](#more)
+6. 🌐 [More](#more)
+
+## 📢 <a name="introduction">Introduction</a>
+
+This project is a clone of the Netflix landing page. It is a mobile responsive clone that is built using HTML, CSS, and JavaScript. The project is hosted on Vercel and can be accessed [here](https://netflixandchill.vercel.app).
+
+## 🛠️ <a name="tech-stack">Tech Stack</a>
+
+- HTML
+- CSS
+- JavaScript
+- Vercel
+
+## ⚡ <a name="features">Features</a>
+
+👉 **Hero**: Captivating Hero section with inset background shadow and nice background
+👉 **Tab Section**: It has interactive tab sections that switch content based on the selected tab
+👉 **Footer**: A footer section with links to various pages and social media icons
+👉 **Responsive Design**: Fully responsive design with seamless adaptability across all devices, enusring optimal experience for every user.
+👉 **Interactive**: Interactive elements like buttons, tabs, and hover effects
+👉 **Engaging Images**: High-quality images which enhances the visual appeal and user experience loading to a more engaging and immersive website.
+
+## 🚀 <a name="quick-start">Quick Start</a>
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/fasakinhenry/netflix-clone.git
+```
+
+2. Change directory
+
+```bash
+cd netflix-clone
+```
+
+3. Open the `index.html` file in your browser
+
+## 🔗 <a name="links">Links</a>
+
+- [Link to Deployed Website](https://netflixandchill.vercel.app)
+- [Link to Repository](https://github.com/fasakinhenry/netflix-clone)
+
+## 🌐 <a name="more">More</a>
+
+This project was built for educational purposes and to showcase my skills in HTML, CSS, and JavaScript. If you have any feedback or suggestions, feel free to reach out to me.
+
+Also I am a software Engineer and I can help you bring your ideas to life. You can reach out to me on [X](https://x.com/henqsoft) or [LinkedIn](https://www.linkedin.com/in/fasakin-henry/).
+
+> Made with ❤️ by [Henry Fasakin](https://github.com/fasakinhenry
